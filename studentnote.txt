@@ -1,0 +1,8 @@
+nama : Sindu Aditya Janadi
+nama file js : script.js
+===========================
+  saya menggunakan metode random images dengan pergantian gambar sekitar 1,5 gambar/detik,
+1. dengan membuat const images yang saya masukkan gambar yang akan terrandom kedalam array
+
+Pustaka
+https://stackoverflow.com/questions/5915096/get-a-random-item-from-a-javascript-array
